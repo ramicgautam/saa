@@ -9,6 +9,10 @@ const roles: Array<IRole> = [
 		title: 'Standard User',
 		slug: 'standard-user',
 	},
+	{
+		title: 'Business User',
+		slug: 'business-user',
+	},
 ];
 
 export const createRole = async () => {

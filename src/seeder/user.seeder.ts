@@ -19,6 +19,15 @@ const users: Array<IUser> = [
 		image: 'default.jpg',
 		roleId: 2,
 	},
+	{
+		firstName: 'Ramic',
+		lastName: 'Gautam',
+		isActive: true,
+		email: 'ramic@example.com',
+		password: 'secret',
+		image: 'default.jpg',
+		roleId: 2,
+	}
 ];
 
 export const createUser = async () => {
