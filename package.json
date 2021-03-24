@@ -2,7 +2,7 @@
 	"name": "ts-express",
 	"version": "1.0.0",
 	"main": "src/index.ts",
-	"author": "Nayan Adhikari <adnayan@hotmail.com>",
+	"author": "Ramic Gautam <gautamramic11@gmail.com>",
 	"license": "MIT",
 	"scripts": {
 		"dev": "ts-node-dev --respawn ./src/index.ts",

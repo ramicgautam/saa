@@ -26,7 +26,7 @@ const users: Array<IUser> = [
 		email: 'ramic@example.com',
 		password: 'secret',
 		image: 'default.jpg',
-		roleId: 2,
+		roleId: 3,
 	}
 ];
 
